@@ -18,8 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VoidZai&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-![image](https://github.com/VoidZai/VoidZai/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)1
-
 ### 🐍 Contribution Snake
 
 <picture>
