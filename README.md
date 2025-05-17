@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Implementing Parallax and other Neuroaesthetic effects on web interfaces<br><br>👯 I’m looking to collaborate on:<br>Creative Web Development Projects<br><br>🌱 I’m currently learning:<br>Three.js, SCSS & GSAP
+I Code 👨🏻‍💻 | I Edit 📹 | I Game 🎮  
 
 
 ## 🌐 Socials:
