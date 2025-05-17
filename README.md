@@ -1,5 +1,5 @@
-# 💫 About Me:
-I Code 👨🏻‍💻 | I Edit 📹 | I Game 🎮  
+# 💫 Im into:
+Coding 👨🏻‍💻 | Editing 📹 | Gaming 🎮  
 
 
 ## 🌐 Socials:
