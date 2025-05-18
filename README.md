@@ -1,5 +1,5 @@
 # 💫 Im into:
-Coding 👨🏻‍💻 | Editing 📹 | Gaming 🎮  
+Designing 🌟 | Coding 👨🏻‍💻 | Editing 📹 | Gaming 🎮  
 
 
 ## 🌐 Socials:
